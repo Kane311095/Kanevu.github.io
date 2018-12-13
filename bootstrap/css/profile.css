@@ -1,0 +1,57 @@
+/*style.css */
+
+body {
+	background: #537479;
+}
+
+.donkey-pic {
+	max-width: 100%;
+	border-radius: 50%;
+}
+
+.relative{
+	position:relative; 
+	width:600px;
+}
+
+
+.absolute-text{
+	position:absolute; 
+	bottom:0; 
+	font-size:24px;
+	font-family:"vedana";
+	background:rgba(251,251,251,0.5);
+	padding:10px 20px; 
+	width:100%; 
+	text-align:center;
+}
+.absolute-text a
+{
+	font-size:16px; 
+	color:#b92b27;
+}
+
+
+.brown {
+	color: brown;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.retro1 {
+	colour:#774836;
+}
+
+.colour1{
+	background-color: #774836;
+}
+
+.colour2{
+	background-color: #ee592e
+}
+
+.white{
+	color: white;
+}
